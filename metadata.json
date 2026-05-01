@@ -1,0 +1,5 @@
+{
+  "name": "ArchPulse Hardware Monitor",
+  "description": "A comprehensive system health and hardware monitoring dashboard for Arch Linux, tracking CPU vitals, power stability, and thermal metrics.",
+  "requestFramePermissions": []
+}
